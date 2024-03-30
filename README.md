@@ -36,6 +36,7 @@
 - Creating a UI-Kit
 - Styling components
 - Adding favicon
+- Adding dark theme
 
 5. Writing tests with Vitest
 6. Deployment to GitHub Pages
