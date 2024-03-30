@@ -36,7 +36,7 @@
 - Creating a UI-Kit
 - Styling components
 - Adding favicon
-- Adding dark theme
+- Adding dark theme (By default, the theme matches the selected theme in Windows. The value is stored in localStorage)
 
 5. Writing tests with Vitest
 6. Deployment to GitHub Pages
