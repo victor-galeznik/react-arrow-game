@@ -1,7 +1,7 @@
 .container {
   display: flex;
   gap: 0 var(--spacing-medium);
-  width: 900px;
+  width: 850px;
   margin: auto;
 }
 
@@ -11,5 +11,6 @@
   border: 2px solid var(--color-yellow-darker);
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
-  background-color: #fff;
+  background-color: var(--color-playground-bg);
+  transition: all 200ms;
 }

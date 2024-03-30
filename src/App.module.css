@@ -1,0 +1,6 @@
+.app_wrapper {
+  display: flex;
+  justify-content: center; /* Горизонтальное выравнивание по центру */
+  align-items: center; /* Вертикальное выравнивание по центру */
+  height: 100vh; /* На весь экран */
+}

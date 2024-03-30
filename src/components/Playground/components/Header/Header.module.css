@@ -1,0 +1,19 @@
+.button__darkmode {
+  color: var(--color-text);
+  transition: color 200ms linear;
+}
+
+.button__lightmode {
+  color: var(--color-text);
+  transition: color 200ms linear;
+}
+
+.header {
+  background-color: var(--color-header);
+  transition: background-color 200ms linear;
+}
+
+.header__title {
+  color: var(--color-text);
+  transition: background-color 200ms linear;
+}

@@ -4,13 +4,15 @@ import TypographyText from "../../../UI/TypographyText"
 const Description: React.FC = () => {
   return (
     <div>
-      <TypographyHeader>↑↓→← Arrow-game description</TypographyHeader>
+      <TypographyHeader className="typography__text">
+        ↑↓→← Arrow-game description
+      </TypographyHeader>
 
-      <TypographyText>
+      <TypographyText className="typography__text">
         Player's goal is to press the keyboard arrow key that was shown to him
         before the next one appears.
       </TypographyText>
-      <TypographyText>
+      <TypographyText className="typography__text">
         After three consecutive successful hits - game won, after three errors -
         lost.
       </TypographyText>

@@ -11,7 +11,7 @@ const Score: React.FC = () => {
   return (
     <>
       <TypographyHeader>Score</TypographyHeader>
-      <TypographyText>
+      <TypographyText className="typography__text">
         On error, the "Consecutive successful hits" value is reset to zero
       </TypographyText>
 

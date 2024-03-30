@@ -39,7 +39,7 @@ const KeyPressed: React.FC<IKeyPressedProps> = (props) => {
     <div>
       <TypographyHeader>Key pressed</TypographyHeader>
       <div className={styles.container}>
-        <TypographyText>
+        <TypographyText className="typography__text">
           Press the key corresponding to the key in "Random keys"
         </TypographyText>
 

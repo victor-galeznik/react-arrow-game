@@ -22,7 +22,7 @@ const WelcomeText: React.FC<IWelcomeTextProps> = (props) => {
   }
 
   return (
-    <TypographyText>
+    <TypographyText className="typography__text">
       Press "Play" to start the game and wait for the first arrow to appear
     </TypographyText>
   )
